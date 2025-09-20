@@ -1,0 +1,15 @@
+Packages :
+Python 
+qiskit
+QuantumCircuit
+transpile
+quantum_info.Statevector
+qiskit-aer
+AerSimulator
+pandas
+numpy
+matplotlib
+pyplot
+System Requirements
+Python 3.x
+Jupyter Notebook environment
